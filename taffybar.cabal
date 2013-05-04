@@ -85,6 +85,7 @@ library
                    System.Taffybar.NetMonitor,
                    System.Taffybar.CPUMonitor,
                    System.Taffybar.DiskIOMonitor,
+                   System.Taffybar.WicdStatus,
                    System.Taffybar.Widgets.Graph,
                    System.Taffybar.Widgets.PollingBar,
                    System.Taffybar.Widgets.PollingGraph,
